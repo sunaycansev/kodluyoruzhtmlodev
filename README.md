@@ -1,2 +1,2 @@
 # kodluyoruzhtmlodev
-Kodluyoruz HTML patikası ödev-1
+Kodluyoruz HTML patikası ödevleri
